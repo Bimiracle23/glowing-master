@@ -12,5 +12,6 @@
 
 ### Demo Screeshots
 
-![Glowing Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![yo](https://github.com/user-attachments/assets/084b8a2f-f05f-42b4-b3fa-ae63cf2dfd85)
+
 
